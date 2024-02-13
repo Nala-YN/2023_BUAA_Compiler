@@ -1,0 +1,1 @@
+java -jar mars.jar nc mips.txt <input.txt > out.txt

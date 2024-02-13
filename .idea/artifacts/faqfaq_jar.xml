@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="faqfaq:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/faqfaq_jar</output-path>
+    <root id="archive" name="faqfaq.jar">
+      <element id="module-output" name="MipsCompiler" />
+    </root>
+  </artifact>
+</component>
